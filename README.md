@@ -2,7 +2,7 @@
 
 A sophisticated customer support AI system built using LangFlow that combines RAG (Retrieval Augmented Generation) with order and product database lookups. This agent can answer FAQs, check order statuses, and provide product information through a simple Streamlit interface.
 
-I am using the Python API not the actual python code from langflow, So I am attaching teh langflow screen which includes the agents and model details.
+I am using the Python API not the actual python code from langflow, So I am attaching the langflow json which includes the agents and model details.
 
 ## 🌟 Features
 
